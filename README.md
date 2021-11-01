@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hello 👋
+
+_About me:_
+
+### Designer
+- UX, UI, Vis, Animation
+
+### Developer
+- JS (+ React, Node), Swift, Python
+
+### Rapid Prototyping
+- PWA, SPA, Responsive, Native
+
+_Currently working on:_
+
+- personal projects (utility, productivity)
+- experimental projects (learning, exploring)
+- creative-focused projects (art, music)
+
+Happy to say hi, chat, collaborate on projects.
+
+:-)
 
 <!--
 **dlsmth/dlsmth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
