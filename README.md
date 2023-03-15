@@ -9,7 +9,7 @@ _About me:_
 - JS (+ React, Node), Swift, Python
 
 ### Rapid Prototyping
-- SPA, Responsive, Native, IoT
+- SPA, Responsive, Native, XR, IoT
 
 _Currently working on:_
 
