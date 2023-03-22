@@ -3,19 +3,19 @@
 _About me:_
 
 ### Designer
-- UX, UI, Vis, Animation
+- UX, UI, Vis, Anim, 3D
 
 ### Developer
-- JS (+ React, Node), Swift, Python
+- JavaScript (+ React, Node, TypeScript), Python, Swift, Kotlin
 
 ### Rapid Prototyping
-- SPA, Responsive, Native, XR, IoT
+- SPA, PWA, Responsive, Native, XR, IoT
 
 _Currently working on:_
 
-- personal projects (utility, productivity)
-- experimental projects (learning, exploring)
-- creative-focused projects (art, music)
+- personal projects (utility, productivity, other "itys")
+- experimental projects (learning, exploring, breaking things)
+- creative projects (programmatic/convergent art, music, animation
 
 Happy to say hi, chat, collaborate on projects.
 
