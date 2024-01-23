@@ -3,19 +3,24 @@
 _About me:_
 
 ### Designer
-- UX, UI, Vis, Anim, 3D
+- UX, UI, Vis, Ill, Anim, 3D
 
 ### Developer
-- JavaScript (+ React, Node, TypeScript), Python, Swift, Kotlin
+- 🖥️ JavaScript (+ React, Node, TypeScript), Go, Docker, Kubernetes
+- 📱 Swift, SwiftUI (iOS, watchOS, tvOS), Kotlin, Flutter (Android, Jetpack Compose)
+- 🧠 Python, PyTorch, TensorFlow, Pandas, NumPy
 
-### Rapid Prototyping
-- SPA, PWA, Responsive, Native, XR, IoT
+### Rapid Prototyper
+- Responsive Web, Native App, AR/VR, IoT (Arduino, Raspberry Pi)
+
+- ### Misc
+- Unity, Unreal, Max (Jitter)
 
 _Currently working on:_
 
-- personal projects (utility, productivity, other "itys")
+- personal projects (utility, productivity)
+- - creative projects (programmatic art, music, animation)
 - experimental projects (learning, exploring, breaking things)
-- creative projects (programmatic/convergent art, music, animation
 
 Happy to say hi, chat, collaborate on projects.
 
