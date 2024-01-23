@@ -13,7 +13,7 @@ _About me:_
 ### Rapid Prototyper
 - Responsive Web, Native App, AR/VR, IoT (Arduino, Raspberry Pi)
 
-- ### Misc
+### Misc
 - Unity, Unreal, Max (Jitter)
 
 _Currently working on:_
