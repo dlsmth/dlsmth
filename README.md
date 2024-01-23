@@ -6,7 +6,7 @@ _About me:_
 - UX, UI, Vis, Ill, Anim, 3D
 
 ### Developer
-- 🖥️ JavaScript (+ React, Node, TypeScript), Go, Docker, Kubernetes
+- 🖥️ JavaScript (+ React, Node, TypeScript), MongoDB, PostgreSQL, REST, GraphQL, Go, Docker, Kubernetes
 - 📱 Swift, SwiftUI (iOS, watchOS, tvOS), Kotlin, Flutter (Android, Jetpack Compose)
 - 🧠 Python, PyTorch, TensorFlow, Pandas, NumPy
 
@@ -19,7 +19,7 @@ _About me:_
 _Currently working on:_
 
 - personal projects (utility, productivity)
-- - creative projects (programmatic art, music, animation)
+- creative projects (programmatic art, music, animation)
 - experimental projects (learning, exploring, breaking things)
 
 Happy to say hi, chat, collaborate on projects.
