@@ -1,5 +1,12 @@
 ## Hello 👋
 
+### NOTE:
+
+I've made all my repos private, as I clean up and refactor a number of projects.
+Reach out if you'd like access to any projects, and I'm happy to share.
+
+Thanks!
+
 _About me:_
 
 ### Designer
