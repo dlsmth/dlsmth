@@ -8,7 +8,7 @@ Reach out if you'd like access to any projects, and I'm happy to share. Thanks!
 _About me:_
 
 ### Designer
-- UX, UI, Vis, Ill, Anim, 3D
+- Product, UX, UI, Vis + Ill, Anim, 3D
 
 ### Developer
 - 🖥️ JavaScript (+ React, Node, TypeScript), MongoDB, PostgreSQL, REST, GraphQL, Go, Docker, Kubernetes
