@@ -1,10 +1,5 @@
 ## Hello 👋
 
-### Note:
-
-I've made many of my repos private as I clean up and refactor a number of projects.
-Reach out if you'd like access to any projects, and I'm happy to share. Thanks!
-
 _About me:_
 
 ### Designer
@@ -18,8 +13,8 @@ _About me:_
 ### Rapid Prototyper
 - Responsive Web, Native App, AR/VR, IoT (Arduino, Raspberry Pi)
 
-### Misc
-- Unity, Unreal, Max (Jitter)
+### Misc Media
+- Unity, Unreal, Max (Jitter), Processing, Live, Max
 
 _Currently working on:_
 
